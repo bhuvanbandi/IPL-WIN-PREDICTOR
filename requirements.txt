@@ -1,0 +1,6 @@
+streamlit
+setuptools
+scikit-learn
+pandas
+numpy
+watchdog
